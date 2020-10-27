@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2020-10-27T12:20:14.707759Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-10-27T12:20:43.9256672Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "58971793-c365-42e6-a4f3-d7049b11a17e"
+    },
+    "mssql1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "ProjectforAssessment"
+    }
+  }
+}
