@@ -1,2 +1,2 @@
-# weatherproofproduct
+# weatherproofproducts
 adsphoria web development assessment
