@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("b1cdc65b-2989-4bf2-a956-3676f8fb643b")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("ea4af2ee-66e9-47be-a62c-b5ec3dc0a5de")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeatherproofProductsWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
